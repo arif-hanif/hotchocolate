@@ -73,7 +73,6 @@ module.exports = {
                       </svg>`,
             },
           },
-          // `gatsby-remark-check-links`,
           {
             resolve: require.resolve(`./plugins/detect-broken-links`),
           },
